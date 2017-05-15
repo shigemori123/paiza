@@ -4,7 +4,7 @@ $stdin = trim(fgets(STDIN));
 var_dump($stdin);
 
 if($stdin%2==0){
-    echo "OFF";
+    echo "OFFuuuuu";
 }else{
     echo "ON";
 }
